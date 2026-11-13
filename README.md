@@ -2,7 +2,7 @@
 
 Computer Science @ University of Maryland, College Park — Graduating May 2027
 
-Currently: Automation Engineering Co-op @ Moderna
+Currently: Software Engineering Co-op @ Moderna
 
 Previously: SWE @ BNY, SWE @ Humana, SWE @ Chapter One
 
